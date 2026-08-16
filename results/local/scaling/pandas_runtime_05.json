@@ -1,0 +1,21 @@
+{
+  "percentage": 5,
+  "platform": "Python/pandas local",
+  "label_rows": 50052,
+  "member_rows": 44216,
+  "transaction_rows": 137604,
+  "listening_rows": 665269,
+  "transaction_chunks": 5,
+  "listening_chunks": 5,
+  "output_rows": 50052,
+  "distinct_users": 50052,
+  "transaction_count_checksum": 137604,
+  "active_days_checksum": 665269,
+  "listening_seconds_checksum": 5250956192.47,
+  "peak_rss_bytes": 148234240,
+  "end_to_end_runtime_seconds": 1.5136591999998927,
+  "labels_and_members_seconds": 0.11582980000002863,
+  "transaction_aggregation_seconds": 0.2590090000003329,
+  "listening_aggregation_seconds": 0.8062190000000555,
+  "join_and_write_seconds": 0.3203776000000289
+}
