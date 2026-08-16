@@ -24,7 +24,7 @@ The submission templates, `transactions_v2.csv` and `user_logs_v2.csv` are not u
 
 The five raw CSV files are uploaded to Amazon S3. An Amazon EMR cluster with one `m5.xlarge` primary node and two `m5.xlarge` core nodes runs the four PySpark jobs through YARN. Spark SQL checks and cleans the raw records, converts them to Parquet, aggregates transaction and listening behaviour separately, and then joins the subscriber-level results. February features use events through 31 January 2017 and March features use events through 28 February 2017. Spark ML trains on the February cohort and evaluates on the later March cohort. Summary results and evidence are written back to S3.
 
-![KKBox architecture](docs/kkbox-architecture.png)
+![KKBox architecture](docs/KKBox-architecture-diagram.png)
 
 ## Repository layout
 
