@@ -1,6 +1,6 @@
 # KKBox Churn Analytics with Spark SQL on Amazon EMR
 
-This repository contains the reproducible source code, summary results and execution evidence for an IST3134 Big Data Analytics study. The project uses Amazon S3 for durable storage, Amazon EMR for distributed computing, PySpark for orchestration, Spark SQL for large-scale preparation and Spark ML for churn prediction. Matching pandas and scikit-learn programs provide the conventional single-computer comparisons required by the assignment.
+The project uses Amazon S3 for durable storage, Amazon EMR for distributed computing, PySpark for orchestration, Spark SQL for large-scale preparation and Spark ML for churn prediction. Matching pandas and scikit-learn programs provide the conventional single-computer comparisons required by the assignment.
 
 ## Research questions
 
