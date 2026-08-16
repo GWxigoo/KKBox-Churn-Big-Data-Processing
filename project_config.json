@@ -1,0 +1,24 @@
+{
+  "february_cutoff": "2017-01-31",
+  "march_cutoff": "2017-02-28",
+  "transaction_window_days": 90,
+  "listening_window_days": 30,
+  "scaling_percentages": [1, 5, 10, 20],
+  "hash_modulus": 100,
+  "random_seed": 42,
+  "shuffle_partitions": 400,
+  "feature_columns": [
+    "membership_tenure_days",
+    "transaction_count_90",
+    "auto_renew_rate_90",
+    "cancellation_count_90",
+    "days_since_last_transaction",
+    "days_until_expiration",
+    "no_recent_transaction",
+    "active_days_30",
+    "total_secs_30",
+    "days_since_last_listen",
+    "no_recent_listening"
+  ]
+}
+
