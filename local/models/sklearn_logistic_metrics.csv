@@ -1,0 +1,2 @@
+platform,model,training_rows,validation_rows,test_rows,feature_count,threshold,precision,recall,f1,pr_auc,roc_auc,log_loss,tp,fp,tn,fn,training_seconds,validation_prediction_seconds,test_inference_seconds,end_to_end_seconds,rss_mib_at_completion
+Local Python/scikit-learn,Logistic Regression - all combined features,794150,198781,970960,11,0.8,0.5405390724303888,0.5697354860872552,0.5547533964778093,0.5081295493583005,0.8357370739350699,0.4353604684596661,49755,42292,841338,37575,1.6626784000000043,0.03450710000015533,0.198461099999804,6.731442100000095,684.2265625
