@@ -1,0 +1,5 @@
+"Percentage","OutputRows","SparkSeconds","PandasSeconds","PandasPeakMemoryMiB","ResultsMatch"
+"1%","9956","16.005","0.396","98.7","True"
+"5%","50052","17.507","1.514","141.37","True"
+"10%","99550","17.354","2.924","180.8","True"
+"20%","199020","20.026","5.727","266.39","True"
