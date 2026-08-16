@@ -1,0 +1,5 @@
+experiment,variant,input_users,listening_rows,transaction_rows,output_rows,runtime_seconds,results_match
+join_strategy,raw_many_to_many,953,13296,2620,36675,54.49,
+join_strategy,aggregate_before_join,953,13296,2620,953,30.67,
+file_format,csv,1128639,,,1128639,169.68,true
+file_format,parquet,1128639,,,1128639,18.93,true

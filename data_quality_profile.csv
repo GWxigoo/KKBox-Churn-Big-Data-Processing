@@ -1,0 +1,6 @@
+table_name,row_count,distinct_users,null_or_blank_msno,invalid_date_rows,negative_total_secs_rows
+train,992931,992931,0,,
+train_v2,970960,970960,0,,
+members_v3,6769473,6769473,0,0,
+transactions,21547746,2363626,0,0,
+user_logs,392106543,5234111,0,0,61493

@@ -1,0 +1,13 @@
+engagement_group,renewal_group,subscribers,churn_rate
+Low activity,No recent transaction,1546,0.8816300129366106
+Moderately active,No recent transaction,8235,0.8667880995749848
+Highly active,No recent transaction,11991,0.8417146192978067
+No recent listening,No recent transaction,6009,0.7784989182892328
+No recent listening,Mostly manual renewal,679,0.7540500736377025
+Low activity,Mostly manual renewal,6319,0.5325209685076753
+Moderately active,Mostly manual renewal,37836,0.3485040701976953
+Highly active,Mostly manual renewal,46682,0.2349299515873356
+No recent listening,Mostly auto-renew,205331,0.05124895899791069
+Low activity,Mostly auto-renew,92003,0.046813690857906806
+Moderately active,Mostly auto-renew,281887,0.04115478897572432
+Highly active,Mostly auto-renew,272442,0.03522584623516198

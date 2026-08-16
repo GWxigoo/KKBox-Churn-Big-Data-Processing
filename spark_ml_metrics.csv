@@ -1,0 +1,2 @@
+model,test_rows,feature_count,threshold,precision,recall,f1,pr_auc,roc_auc,log_loss,tp,fp,tn,fn,training_seconds,validation_prediction_seconds,test_inference_seconds
+Logistic Regression - all combined features,970960,11,0.8,0.540477716346415,0.5697698385434559,0.5547373643341714,0.5087539750730101,0.8357520552922446,0.4353893059551966,49758,42305,841325,37572,18.39446070699978,2.881515434999983,3.747874296000191

@@ -1,0 +1,3 @@
+cohort,rows,distinct_users,churners,min_label,max_label
+february,992931,992931,63471,0,1
+march,970960,970960,87330,0,1
