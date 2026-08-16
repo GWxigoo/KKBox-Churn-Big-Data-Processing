@@ -36,7 +36,6 @@ sql/          Version-controlled Spark SQL cleaning and feature queries
 local/        pandas scaling and scikit-learn comparison programs
 docs/         EMR runbook, architecture and selected execution evidence
 results/      Small audit, experiment and model summary files
-report/       Final assignment report (when added by the group)
 ```
 
 ## EMR execution
